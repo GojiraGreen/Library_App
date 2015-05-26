@@ -1,5 +1,5 @@
-Example JEE application
-=======================
+Simple JEE web application
+==========================
 
 Library application for managing users and their book requests.
 
